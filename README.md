@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chase Harland
-- Proffesional software developer currently working on frontends in Angular and React and middlends in C#
+- Professional software developer currently working on front-ends in Angular and React and middle-ends in C#
 - Always looking to branch out
 - 👀 I’m interested in ... Machine learning projects
 - 🌱 I’m currently learning ... Python, React
