@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Chase Harland
-- Professional software developer currently working on front-ends in Angular and React and middle-ends in C#
-- Always looking to branch out
-- 👀 I’m interested in ... Machine learning projects
-- 🌱 I’m currently learning ... Python, React
-- 📫 How to reach me ... chaseharland@bellsouth.net
+- Professional software developer with 4 years industry experience working with .NET/Angular/React
+- Big fan of fighting games
+- Currently developing reverse engineering skills
