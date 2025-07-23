@@ -1,3 +1,4 @@
 - Professional software developer with 4 years industry experience working with .NET/Angular/React
 - Big fan of fighting games
-- Currently developing reverse engineering skills
+- Building .NET interop and reverse engineering skills
+- Currently developing [GGXXACPROverlay](https://github.com/YouKnow232/ggxxacpr_overlay)
